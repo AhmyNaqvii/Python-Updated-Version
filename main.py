@@ -1,0 +1,7 @@
+print("hello \"world\" world")
+print('I\'m Ahmed Naqvi')
+print('new line\nadd one more line\n remove space')
+print("name\t Ahmed")
+print("Add backslash\\")
+print("Add double backslash\\\\")
+print("hell\blo")
